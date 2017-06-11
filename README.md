@@ -1,6 +1,6 @@
-# f7
+# vuejs-cordova-test
 
-> A Vue.js project
+> A Vue.js + OnsenUI test project
 
 ## Build Setup
 
